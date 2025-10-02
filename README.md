@@ -27,6 +27,8 @@ This project implements a secure, highly available two-tier web application arch
 
 * Security Groups - Fine-grained firewall rules between tiers
 
+### Cloudwatch(Monitoring)
+
 ## Key Features
 ### High Availability
   * Multi-AZ deployment across different data centers
