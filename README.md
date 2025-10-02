@@ -95,4 +95,4 @@ terraform destroy --auto-approve
 
 * WAF Integration - Web application firewall
 
-* Monitoring - Enhanced CloudWatch dashboards
+
