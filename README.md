@@ -2,7 +2,8 @@
 ## PROJECT OVERVIEW
 This project implements a secure, highly available two-tier web application architecture on AWS using Terraform. The infrastructure follows AWS best practices for scalability, security, and reliability, featuring a public web tier and a private database tier.
 
-![AWS Two-Tier Architecture](./images/architecture-diagram.jpeg)
+![AWS Two-Tier Architecture](./images/architecture%20diagram.jpeg.jpeg)
+
 
 
 ## Architecture Components
